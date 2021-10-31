@@ -10,7 +10,8 @@
     * HTML5
     * CSS
     * JavaScript
-# Preview: 
+
+# Preview: https://zippy-sairamnomula.netlify.app/
 
 <h2 align="center">Screenshots</h2>
 
