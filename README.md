@@ -2,9 +2,8 @@
 <h5 align="center">Name : Venkata Naga Sai Ram Nomula</h5>
 <h5 align="center">Email : sairamnomula14@gmail.com</h5>
 
-# Projects
-
 <h2 align="center">Task 1</h2>
+
 ### Beginner Level Task - Create a Single page website.
 ### Technologies used
     * HTML5
@@ -47,6 +46,7 @@ https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sha
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- <h2 align="center">Task 3</h2>
+
 ### Advance Level Task - Student Result Management System.
 ### Technologies used
     * HTML5
