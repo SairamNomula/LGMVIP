@@ -41,6 +41,11 @@ https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sha
 
 <h2 align="center">Screenshots</h2>
 
+![image](https://user-images.githubusercontent.com/78247889/140263231-602b0e72-36b6-45cb-86e9-758b0dcd415b.png)
+
+![image](https://user-images.githubusercontent.com/78247889/140263262-71c469b5-eb73-45bd-9f01-75299268ba83.png)
+
+![image](https://user-images.githubusercontent.com/78247889/140263287-66463ed7-7670-435c-94c6-101e1d83ea3b.png)
 ### Demo Video:
 https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sharing
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
