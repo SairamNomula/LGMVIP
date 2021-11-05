@@ -21,6 +21,8 @@
 ![image](https://user-images.githubusercontent.com/78247889/139385918-f9455a84-abc8-4ff0-a422-de6b552d32d2.png)
 ### Demo Video link:
 https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sharing
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">Task 2</h2>
@@ -37,7 +39,6 @@ https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sha
     * CSS
     * JavaScript
     * ReactJs
-# Preview: 
 
 <h2 align="center">Screenshots</h2>
 
@@ -48,6 +49,8 @@ https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sha
 ![image](https://user-images.githubusercontent.com/78247889/140263287-66463ed7-7670-435c-94c6-101e1d83ea3b.png)
 ### Demo Video:
 https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sharing
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- <h2 align="center">Task 3</h2>

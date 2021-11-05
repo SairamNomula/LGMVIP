@@ -7,7 +7,6 @@ const CardList = ({robots})=>{
     return(
             <div>
                 {
-                  //displays all the card by calling the card component and passing all the values
                     robots.map((user, i) => {
                         return(
                                     <Card

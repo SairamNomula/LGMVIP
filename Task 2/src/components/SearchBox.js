@@ -7,7 +7,7 @@ const SearchBox=({searchfeild, searchChange})=>{
                 <input 
                 className='pa2 ba'
                  type="search" id='search'
-                 placeholder='&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search User' 
+                 placeholder='Search User' 
                  onChange={searchChange}/>
             </div>
         );
