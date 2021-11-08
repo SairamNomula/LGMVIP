@@ -1,6 +1,4 @@
 <h1 align="center">LGMVIP - Web Development</h1>
-<h5 align="center">Name : Venkata Naga Sai Ram Nomula</h5>
-<h5 align="center">Email : sairamnomula14@gmail.com</h5>
 
 <h2 align="center">Task 1</h2>
 
@@ -22,7 +20,6 @@
 ### Demo Video link:
 https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sharing
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">Task 2</h2>
@@ -51,12 +48,11 @@ https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sha
 https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sharing
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- <h2 align="center">Task 3</h2>
+<h2 align="center">Task 3</h2>
 
 ### Advance Level Task - Student Result Management System.
-### Technologies used
+<!-- ### Technologies used
     * HTML5
     * CSS
     * JavaScript
