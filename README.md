@@ -52,7 +52,7 @@ https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sha
 <h2 align="center">Task 3</h2>
 
 ### Advance Level Task - Student Result Management System.
-<!-- ### Technologies used
+### Technologies used
     * HTML5
     * CSS
     * JavaScript
@@ -63,4 +63,3 @@ https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sha
 
 ### Demo Video: 
 https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sharing
--->
