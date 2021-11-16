@@ -1,6 +1,6 @@
 <h1 align="center">LGMVIP - Web Development</h1>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a361941e-7964-45c5-92e7-10ef8015e5f0/deploy-status)](https://athenamarketplace.netlify.app/)
+### <div align="center"><samp>Show ❤️ by starring this repository.</samp></div>
 
 <h2 align="center">Task 1</h2>
 
