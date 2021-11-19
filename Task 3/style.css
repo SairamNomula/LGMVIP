@@ -1,0 +1,78 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+body
+{
+	background-image:url(images/goldie.jpg);
+	margin:0px;
+}
+.head
+{
+	font-family: 'Poppins', sans-serif;
+	font-size:40px;
+	color:#FFF;
+	margin-left:50px;
+
+}
+
+.subhead
+{
+	font-family: 'Poppins', sans-serif;
+	color:#eeea14;
+	font-size:25px;
+}
+
+
+.labels
+{
+	font-family: 'Poppins', sans-serif;
+	color:#fff;
+	font-size:20px;
+}
+
+.fields
+{
+	font-family: 'Poppins', sans-serif;
+	font-size:14px;
+	padding:2px 5px;
+	color:#eeea14;
+	background-color:transparent;
+	border:1px solid #eeea14;
+	border-radius:5px;
+}
+
+.button
+{
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	padding: 4px 8px;
+	color:#eeea14;
+	background-color: #000;
+	border:2px solid #eeea14;
+	border-radius: 8px;
+	cursor: pointer;
+}
+
+.design
+{
+	background-color:transparent;
+	border:1px solid #eeea14;
+	border-radius:5px;
+	padding:10px 10px;
+	box-shadow:0px 0px 40px #000000;
+}
+a.link:link{text-decoration:none;font-family:'Poppins', sans-serif;font-size:18px;color:#eeea14;}
+a.link:active{text-decoration:none;font-family:'Poppins', sans-serif;font-size:18px;color:#eeea14;}
+a.link:visited{text-decoration:none;font-family:'Poppins', sans-serif;font-size:18px;color:#eeea14;}
+a.link:hover{text-decoration:none;font-family:'Poppins', sans-serif;font-size:22px;color:#fff;}
+
+.msg
+{
+	font-family: 'Poppins', sans-serif;
+	font-size:20px;
+	color:#14ee80;
+}
+
+a.cmd:link{text-decoration:none;font-family:'Poppins', sans-serif;font-size:15px;color:#eeea14;padding:5px 6px;background-color:transparent;border:1px solid #066;}
+a.cmd:active{text-decoration:none;font-family:'Poppins', sans-serif;font-size:15px;color:#eeea14;padding:5px 6px;background-color:transparent;border:1px solid #066;}
+a.cmd:visited{text-decoration:none;font-family:'Poppins', sans-serif;font-size:15px;color:#eeea14;padding:5px 6px;background-color:transparent;border:1px solid #066;}
+a.cmd:hover{text-decoration:none;font-family:'Poppins', sans-serif;font-size:15px;color:#fff;padding:5px 6px;background-color:transparent;border:1px solid #066;box-shadow:0px 0px 10px #066;}
