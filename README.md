@@ -10,7 +10,6 @@
     * CSS
     * JavaScript
 
-# Preview: https://zippy-sairamnomula.netlify.app/
 
 <h2 align="center">Screenshots</h2>
 
@@ -19,6 +18,8 @@
 ![image](https://user-images.githubusercontent.com/78247889/139385843-bb1cffe6-539f-4a3d-ab36-f45b36eb8dd7.png)
 
 ![image](https://user-images.githubusercontent.com/78247889/139385918-f9455a84-abc8-4ff0-a422-de6b552d32d2.png)
+
+# Preview: https://zippy-sairamnomula.netlify.app/
 ### Demo Video link:
 https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sharing
 
@@ -62,6 +63,8 @@ https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sha
     * MySQL
 
 <h2 align="center">Screenshots</h2>
+
+![image](https://user-images.githubusercontent.com/78247889/142577064-2c2af5a3-66ba-423a-b25c-394587b2250a.png)
 
 ### Demo Video: 
 https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sharing
