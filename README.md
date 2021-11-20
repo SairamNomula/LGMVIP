@@ -66,5 +66,9 @@ https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sha
 
 ![image](https://user-images.githubusercontent.com/78247889/142577064-2c2af5a3-66ba-423a-b25c-394587b2250a.png)
 
+![image](https://user-images.githubusercontent.com/78247889/142577341-3bf55076-6023-4f20-a3da-1e37deb45d2e.png)
+
+![image](https://user-images.githubusercontent.com/78247889/142577261-b93f3a26-6365-4647-ad9a-c8a46620e532.png)
+
 ### Demo Video: 
 https://drive.google.com/drive/folders/1Ol7Yxe2pqcW7JuZrtqLc8tOer74KwSI5?usp=sharing
